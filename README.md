@@ -1,7 +1,7 @@
 # NHLDataAnalysis
-Authors: Jack Stout, Zach Healy, Jacob Thieret, Noah Little, Justin Kehoe
 -------------------
 ### Final project for CS300 at Southeast Missouri State University.
+Authors: Jack Stout, Zach Healy, Jacob Thieret, Noah Little, Justin Kehoe
 
 A Java project that will scrap the player data off of the NHL website and use it for analysis on various stat lines. The project uses Selenium for the web scraping element and uses a text interface for user input.
 
