@@ -1,4 +1,5 @@
 # NHLDataAnalysis
+Authors: Jack Stout, Zach Healy, Jacob Thieret, Noah Little, Justin Kehoe
 -------------------
 ### Final project for CS300 at Southeast Missouri State University.
 
